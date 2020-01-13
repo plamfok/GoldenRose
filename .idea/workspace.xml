@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5489f17d-18c9-4c16-8277-69329bca49f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1WGAhbPhvoB7hyUpYUzbXqeDiF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5489f17d-18c9-4c16-8277-69329bca49f1" name="Default Changelist" comment="" />
+      <created>1578765677655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578765677655</updated>
+      <workItem from="1578765679235" duration="1637000" />
+      <workItem from="1578808343855" duration="1561000" />
+      <workItem from="1578810414152" duration="2530000" />
+      <workItem from="1578813195100" duration="3175000" />
+      <workItem from="1578820353824" duration="1867000" />
+      <workItem from="1578912503603" duration="4035000" />
+      <workItem from="1578917003777" duration="5429000" />
+      <workItem from="1578927817474" duration="525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="102" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578816433483">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="509" y="102" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1578816433483" />
+    <state x="416" y="180" width="824" height="564" key="DBNavigator.DatasetFilterDialog" timestamp="1578813284104">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="416" y="180" width="824" height="564" key="DBNavigator.DatasetFilterDialog/67.27.1533.873@67.27.1533.873" timestamp="1578813284104" />
+    <state x="366" y="120" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1578813260350">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="366" y="120" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/67.27.1533.873@67.27.1533.873" timestamp="1578813260350" />
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog" timestamp="1578812681605">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog/67.27.1533.873@67.27.1533.873" timestamp="1578812681605" />
+    <state x="616" y="191" width="424" height="543" key="FileChooserDialogImpl" timestamp="1578814707027">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="191" width="424" height="543" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1578814707027" />
+    <state width="1020" height="218" key="GridCell.Tab.0.bottom" timestamp="1578821049456">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="218" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1578821049456" />
+    <state width="1020" height="218" key="GridCell.Tab.0.center" timestamp="1578821049455">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="218" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1578821049455" />
+    <state width="1020" height="218" key="GridCell.Tab.0.left" timestamp="1578821049455">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="218" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1578821049455" />
+    <state width="1020" height="218" key="GridCell.Tab.0.right" timestamp="1578821049456">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1020" height="218" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1578821049456" />
+    <state width="326" height="500" key="HiddenNamespacesPopup" timestamp="1578815931133">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="326" height="500" key="HiddenNamespacesPopup/67.27.1533.873@67.27.1533.873" timestamp="1578815931133" />
+    <state x="322" y="97" key="SettingsEditor" timestamp="1578926650055">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1578926650055" />
+    <state x="811" y="337" width="367" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1578808839510">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="811" y="337" width="367" height="230" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/67.27.1533.873@67.27.1533.873" timestamp="1578808839510" />
+    <state x="419" y="27" width="818" height="873" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport" timestamp="1578814841505">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="419" y="27" width="818" height="873" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport/67.27.1533.873@67.27.1533.873" timestamp="1578814841505" />
+    <state x="552" y="102" width="552" height="720" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1578814432983">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="552" y="102" width="552" height="720" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/67.27.1533.873@67.27.1533.873" timestamp="1578814432983" />
+    <state x="766" y="206" width="287" height="468" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1578814470281">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="766" y="206" width="287" height="468" key="com.intellij.database.view.ui.DbObjectDialog/67.27.1533.873@67.27.1533.873" timestamp="1578814470281" />
+    <state x="570" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1578813197271">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="570" y="268" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1578813197271" />
+  </component>
+</project>

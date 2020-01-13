@@ -1,0 +1,19 @@
+
+
+{% block main %}
+
+<div class="container body-content span=8 offset=2">
+        <form class="form-horizontal" action="{{ path('booking_delete', {id: booking.id}) }}" method="POST">
+            
+                {{ form_row(form._token) }}
+
+
+                        <a class="btn btn-default" href="{{ path('booking_booking', {id: booking.id}) }}">Cancel</a>
+                        <button type="submit" class="btn btn-danger">Delete</button>                 
+        </form>
+</div>
+
+
+
+
+{% endblock %}

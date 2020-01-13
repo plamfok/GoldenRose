@@ -1,0 +1,63 @@
+
+
+{% block main %}
+<body background="/picture/admin.jpg">
+ 
+
+
+ <div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            <article>
+               <ul>
+                {% for booking in bookings %}
+<table>
+
+<table class="table table-hover">
+<thead>
+<tr class="font-table">
+<th scope="col">Name</td>
+<th scope="col">Checkin</td>
+<th scope="col">Checkout</td>
+<th scope="col">Email</td>
+<th scope="col">Gsm</td>
+<th scope="col">ID</td>
+<th scope="col">authorId</td>
+</tr>
+<tr class="table-danger">
+<td>{{ booking.getName }}</td>
+<td>{{ booking.getCheckin }}</td>
+<td>{{ booking.getCheckout }}</td>
+<td>{{ booking.getEmail }}</td>
+<td>{{ booking.getGsm }}</td>
+<td>{{ booking.getId }}</td>
+<td>{{ booking.authorId }}</td>
+</tr>
+</thead>
+</table>
+<a class="btn btn-danger" href="{{ path('booking_delete', {'id':booking.id}) }}">delete</a>
+                {% endfor %} 
+               </ul>
+               
+                <footer>
+
+                </footer>
+            </article>
+        </div>
+    </div>
+</div>
+
+						
+
+{% endblock %}
+{% block stylesheets %}
+        <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+        <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
+    {% endblock %}
+
+    {% block javascripts %}
+    <script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
+    <script src="{{ asset('js/moment.min.js') }}"></script>
+    <script src="{{ asset('js/bootstrap.js') }}"></script>
+    <script src="{{ asset('js/bootstrap-datetimepicker.min.js') }}"></script>
+{% endblock %}
