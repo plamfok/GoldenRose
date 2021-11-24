@@ -50,6 +50,9 @@ It comes pre-configured with the following bundles:
   * [**SensioGeneratorBundle**][13] (in dev env) - Adds code generation
     capabilities
 
+
+
+
   * [**WebServerBundle**][14] (in dev env) - Adds commands for running applications
     using the PHP built-in web server
 
@@ -70,3 +73,4 @@ Enjoy!
 [11]: https://symfony.com/doc/3.4/logging.html
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
 [14]: https://symfony.com/doc/current/setup/built_in_web_server.html
+donate IBAN:BG12SOM91301058475102 
