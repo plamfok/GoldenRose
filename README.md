@@ -87,4 +87,5 @@ Enjoy!
 [11]: https://symfony.com/doc/3.4/logging.html
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
 [14]: https://symfony.com/doc/current/setup/built_in_web_server.html
-donate IBAN:BG12SOM91301058475102 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=D2RVZLELLJEN4)
