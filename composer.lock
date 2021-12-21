@@ -130,8 +130,8 @@
             ],
              "support": {
                 "source": "https://github.com/doctrine/annotations/tree/master"
-           }, 
-            {"time": "2015-08-31T12:32:49+00:00"
+           
+            "time": "2015-08-31T12:32:49+00:00"
         },
         {
             "name": "doctrine/cache",
