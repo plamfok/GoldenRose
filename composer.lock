@@ -2038,6 +2038,7 @@
         },
         {
             "name": "symfony/symfony",
+             "version" :"v3.4.0", 
             "version": "v3.4.35",
             "source": {
                 "type": "git",
